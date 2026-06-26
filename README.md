@@ -98,7 +98,7 @@ The graph below compares the actual student scores with the predicted scores.
 
 As seen below, most predictions lie very close to the ideal line, demonstrating strong predictive performance.
 
-![Actual vs Predicted](actual_vs_predicted.png)
+![Actual vs Predicted](actual-vs-predicted.png)
 
 ---
 
